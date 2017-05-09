@@ -1,0 +1,23 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css?family=Macondo');
+
+
+/* Font Name: Macondo */
+/* Insert Code Here */
+body {
+	background-color: #E6E6E6;
+}
+
+.container {
+   width: 450px;
+   margin: 0 auto;
+   background-color: white;
+   border-radius: 8px;
+
+   box-shadow: 50px 50px 10px rgba(0,0,0,1);
+}
+
+.container img {
+	width: 450px;
+	background-color: white;
+}

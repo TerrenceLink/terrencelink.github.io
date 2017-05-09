@@ -1,0 +1,33 @@
+body {
+	background-color: #E6E6E6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Georgia";
+}
+
+p, li{
+	font-family: "Arial";
+}
+
+a{
+  text-decoration: none;
+  color: red;
+}
+.container{
+   background-color: white;
+
+   padding-top: 24px;
+   padding-left: 24px;
+   padding-bottom: 24px; 
+
+   margin: 36px;
+}
+
+.center-text {
+	text-align: center;
+}
+
+#green{
+	color:green;
+}

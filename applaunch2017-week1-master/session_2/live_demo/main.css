@@ -1,0 +1,23 @@
+
+/* Basically, it center the divison */
+/* Feel free to ignore this magic */
+/* It is just for presentation purposes */
+.center-everything {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.gray {
+	background-color: #CCC;
+	text-align: center;
+	border: 1px solid black;
+}
+
+.green {
+    background-color: #CCC;
+    text-align: center;
+    border: 1px solid black;
+    color:green;
+
+}
