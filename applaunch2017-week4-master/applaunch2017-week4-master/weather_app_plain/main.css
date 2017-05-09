@@ -1,0 +1,27 @@
+body {
+  background-color: #E6E6E6;
+}
+
+.container {
+   width: 500px;
+   margin-top: 10%;
+   background-color: white;
+   border-radius: 100px;
+
+   box-shadow: 10px 10px 10px rgba(0,0,0,1);
+}
+
+.id{
+color:green;
+}
+
+
+
+
+.green {
+    text-align: center;
+    color:green;
+    margin-top: 10%;
+
+
+}
